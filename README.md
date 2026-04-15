@@ -93,4 +93,4 @@ for _ in range(1000):
 This project was created as an educational custom RL environment. Adjust and reuse as needed.
 
 **Contributors**
-- Arpitha
+- @arpitha-co
